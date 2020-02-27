@@ -1,6 +1,6 @@
 # cc_react_jsx
 
-This repo consists of me working on miscellaneous projects using node, ReactJS, and redux.
+This repo consists of me working on miscellaneous projects using NodeJS, JavaScript, JSX, and ReactJS.
 
 Concepts learned:
 
